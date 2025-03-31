@@ -1,0 +1,9 @@
+C:/Users/Ap0ca/Documents/comm2/build/CMakeFiles/comm2.dir
+C:/Users/Ap0ca/Documents/comm2/build/CMakeFiles/edit_cache.dir
+C:/Users/Ap0ca/Documents/comm2/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Ap0ca/Documents/comm2/build/CMakeFiles/list_install_components.dir
+C:/Users/Ap0ca/Documents/comm2/build/CMakeFiles/install.dir
+C:/Users/Ap0ca/Documents/comm2/build/CMakeFiles/install/local.dir
+C:/Users/Ap0ca/Documents/comm2/build/CMakeFiles/install/strip.dir
+C:/Users/Ap0ca/Documents/comm2/build/CMakeFiles/comm2_autogen_timestamp_deps.dir
+C:/Users/Ap0ca/Documents/comm2/build/CMakeFiles/comm2_autogen.dir

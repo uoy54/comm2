@@ -1,0 +1,14 @@
+# ninja log v6
+119	3562	7651220633945802	comm2_autogen/timestamp	d78cad91c243aa71
+119	3562	7651220633945802	comm2_autogen/mocs_compilation.cpp	d78cad91c243aa71
+119	3562	7651220633945802	C:/Users/Ap0ca/Documents/comm2/build/comm2_autogen/timestamp	d78cad91c243aa71
+119	3562	7651220633945802	C:/Users/Ap0ca/Documents/comm2/build/comm2_autogen/mocs_compilation.cpp	d78cad91c243aa71
+3590	3811	7651220639479805	comm2_autogen/EWIEGA46WW/qrc_resources.cpp	e6ef141fb21f3949
+3590	3811	7651220639479805	C:/Users/Ap0ca/Documents/comm2/build/comm2_autogen/EWIEGA46WW/qrc_resources.cpp	e6ef141fb21f3949
+3841	4018	7651220639929875	CMakeFiles/comm2.dir/comm2_autogen/EWIEGA46WW/qrc_resources.cpp.obj	331da779006dd40b
+3835	7005	7651220639869847	CMakeFiles/comm2.dir/clickablescene.cpp.obj	6f688a9ed7f1e864
+3829	7246	7651220639800040	CMakeFiles/comm2.dir/Graph.cpp.obj	d6ed2c3cd8a3cc8d
+3818	7326	7651220639699827	CMakeFiles/comm2.dir/main.cpp.obj	3fa9a310567b5680
+3812	7501	7651220639629862	CMakeFiles/comm2.dir/comm2_autogen/mocs_compilation.cpp.obj	ccaf4d8700ca100e
+3823	7876	7651220639749830	CMakeFiles/comm2.dir/mainwindow.cpp.obj	e27dcd085e6a8100
+7878	13718	7651220680298025	bin/comm2.exe	66907e39cccbb759
